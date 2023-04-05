@@ -1,2 +1,2 @@
-print("moromoro")
+print("moromorsso")
 print("ei toimi")
